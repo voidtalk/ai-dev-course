@@ -3,7 +3,7 @@ layout: post
 title: "linear system"
 subtitle: "linear system"
 mathjax: true
-date: 2020-12-04 05:36:00 +0900
+date: 2020-12-08 05:36:00 +0900
 background: "/img/posts/06.jpg"
 ---
 
