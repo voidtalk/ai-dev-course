@@ -80,6 +80,8 @@ Replacement(치환), Intercharge(교환), Scaling(스케일링)
 
 2. 주어진 선형시스템의 rank를 알려준다.
 
+3. 해가 있는지 (consistent), 해가 없는지(inconsistent) 알 수 있다.
+
 ex) 2 x 2 의 식을 받았지만, 의미 있는 식은 하나밖에 없다 (rank = 1) 라는 걸 알려줄 수 있다.
 
 $$\begin{bmatrix}1 & 3 \\2 & 6 \end{bmatrix}\begin{bmatrix}x_{1} \\x_{2} \end{bmatrix} = \begin{bmatrix}2 \\4 \end{bmatrix}$$
@@ -90,7 +92,7 @@ $$\begin{bmatrix}1 & 3 \\0 & 0 \end{bmatrix}\begin{bmatrix}x_{1} \\x_{2} \end{bm
 
 으로 바꿔준다. 마지막 식은 $$0=0$$ 이다.
 
-3. 해가 있는지 (consistent), 해가 없는지(inconsistent) 알 수 있다.
+또한, 해가 있는지 (consistent), 해가 없는지(inconsistent) 알 수 있다.
 
 $$\begin{bmatrix}1 & 3 \\0 & 0 \end{bmatrix}\begin{bmatrix}x_{1} \\x_{2} \end{bmatrix} = \begin{bmatrix}2 \\0 \end{bmatrix}$$
 
